@@ -2,3 +2,4 @@
 - enum
 - readonly properties
 - first class callable
+- new in initializers
