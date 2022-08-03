@@ -1,5 +1,6 @@
 # What's new in PHP 8.1
-- enum
-- readonly properties
-- first class callable
-- new in initializers
+- Enum
+- Readonly Properties
+- First Class Callable
+- New in Initializers
+- Intersection Types
