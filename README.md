@@ -4,3 +4,4 @@
 - First Class Callable
 - New in Initializers
 - Intersection Types
+- Final Class Constant
