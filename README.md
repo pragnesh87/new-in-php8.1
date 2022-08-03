@@ -5,3 +5,4 @@
 - New in Initializers
 - Intersection Types
 - Final Class Constant
+- Never return type
